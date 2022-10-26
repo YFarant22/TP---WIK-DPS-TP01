@@ -1,0 +1,4 @@
+- Télécharer le package du repo
+- Instaler les dépendance de rust (cargo)
+- Lancer le serveur web avec la commande "cargo run" sur un terminal
+- Ouvrir une page internet et rechercher sur la barre de recherche "127.0.0.1:7878/ping"
